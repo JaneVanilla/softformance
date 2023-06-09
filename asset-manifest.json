@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/softformance/static/css/main.a991df40.css",
+    "main.js": "/softformance/static/js/main.000928cb.js",
+    "static/js/787.8d01158a.chunk.js": "/softformance/static/js/787.8d01158a.chunk.js",
+    "static/media/man.jpg": "/softformance/static/media/man.8c0bbb14dd5e3e01ef4d.jpg",
+    "static/media/softformance_logo.svg": "/softformance/static/media/softformance_logo.fc94ab16434f2f359146e437f8092d4b.svg",
+    "index.html": "/softformance/index.html",
+    "static/media/quote.svg": "/softformance/static/media/quote.44341297148d73f70d72.svg",
+    "static/media/navArrow.svg": "/softformance/static/media/navArrow.2b10a2ce8bc0296b68c3.svg",
+    "main.a991df40.css.map": "/softformance/static/css/main.a991df40.css.map",
+    "main.000928cb.js.map": "/softformance/static/js/main.000928cb.js.map",
+    "787.8d01158a.chunk.js.map": "/softformance/static/js/787.8d01158a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a991df40.css",
+    "static/js/main.000928cb.js"
+  ]
+}
